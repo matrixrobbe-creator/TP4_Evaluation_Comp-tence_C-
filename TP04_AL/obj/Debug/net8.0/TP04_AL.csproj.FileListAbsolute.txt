@@ -1,0 +1,14 @@
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\bin\Debug\net8.0\TP04_AL.exe
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\bin\Debug\net8.0\TP04_AL.deps.json
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\bin\Debug\net8.0\TP04_AL.runtimeconfig.json
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\bin\Debug\net8.0\TP04_AL.dll
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\bin\Debug\net8.0\TP04_AL.pdb
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.AssemblyInfoInputs.cache
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.AssemblyInfo.cs
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.csproj.CoreCompileInputs.cache
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.dll
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\refint\TP04_AL.dll
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.pdb
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\TP04_AL.genruntimeconfig.cache
+D:\Cours_Deuxième_année\COURSAL\SLAM2_AL_20260924_TP03_STAGES\TP04_AL\obj\Debug\net8.0\ref\TP04_AL.dll
